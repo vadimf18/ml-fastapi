@@ -82,9 +82,9 @@ uvicorn fastapi_skeleton.main:app
 
 2. Go to [http://localhost:8000/docs](http://localhost:8000/docs).
 3. Click `Authorize` and enter the API key as created in the Setup step.
-![Authroization](./docs/authorize.png) 
+![Authroization] 
 4. You can use the sample payload from the `docs/sample_payload.json` file when trying out the house price prediction model using the API.
-   ![Prediction with example payload](./docs/sample_payload.png)
+   ![Prediction with example payload]
 
 ## Linting
 
